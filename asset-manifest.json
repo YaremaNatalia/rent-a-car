@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/Rent-a-car/static/css/main.cd2e038f.css",
-    "main.js": "/Rent-a-car/static/js/main.dfe02434.js",
-    "static/js/838.f36d8086.chunk.js": "/Rent-a-car/static/js/838.f36d8086.chunk.js",
-    "static/media/BgHomePage-desk.jpg": "/Rent-a-car/static/media/BgHomePage-desk.8165081e1eb1e8a9a0e0.jpg",
-    "index.html": "/Rent-a-car/index.html",
-    "main.cd2e038f.css.map": "/Rent-a-car/static/css/main.cd2e038f.css.map",
-    "main.dfe02434.js.map": "/Rent-a-car/static/js/main.dfe02434.js.map",
-    "838.f36d8086.chunk.js.map": "/Rent-a-car/static/js/838.f36d8086.chunk.js.map"
+    "main.css": "/rent-a-car/static/css/main.ea5509e2.css",
+    "main.js": "/rent-a-car/static/js/main.d212edbc.js",
+    "static/js/590.6ba688fe.chunk.js": "/rent-a-car/static/js/590.6ba688fe.chunk.js",
+    "static/media/BgHomePage-desk2.png": "/rent-a-car/static/media/BgHomePage-desk2.4a4fa672a1b8130937c4.png",
+    "static/media/Manrope-SemiBold.ttf": "/rent-a-car/static/media/Manrope-SemiBold.33d2f89e0616126658af.ttf",
+    "static/media/Manrope-Medium.ttf": "/rent-a-car/static/media/Manrope-Medium.c1117ffc8855673d0172.ttf",
+    "static/media/Manrope-Regular.ttf": "/rent-a-car/static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
+    "index.html": "/rent-a-car/index.html",
+    "main.ea5509e2.css.map": "/rent-a-car/static/css/main.ea5509e2.css.map",
+    "main.d212edbc.js.map": "/rent-a-car/static/js/main.d212edbc.js.map",
+    "590.6ba688fe.chunk.js.map": "/rent-a-car/static/js/590.6ba688fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd2e038f.css",
-    "static/js/main.dfe02434.js"
+    "static/css/main.ea5509e2.css",
+    "static/js/main.d212edbc.js"
   ]
 }
