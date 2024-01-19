@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rent-a-car/static/css/main.ea5509e2.css",
-    "main.js": "/rent-a-car/static/js/main.d212edbc.js",
+    "main.js": "/rent-a-car/static/js/main.5c4ce964.js",
     "static/js/590.6ba688fe.chunk.js": "/rent-a-car/static/js/590.6ba688fe.chunk.js",
     "static/media/BgHomePage-desk2.png": "/rent-a-car/static/media/BgHomePage-desk2.4a4fa672a1b8130937c4.png",
     "static/media/Manrope-SemiBold.ttf": "/rent-a-car/static/media/Manrope-SemiBold.33d2f89e0616126658af.ttf",
@@ -9,11 +9,11 @@
     "static/media/Manrope-Regular.ttf": "/rent-a-car/static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
     "index.html": "/rent-a-car/index.html",
     "main.ea5509e2.css.map": "/rent-a-car/static/css/main.ea5509e2.css.map",
-    "main.d212edbc.js.map": "/rent-a-car/static/js/main.d212edbc.js.map",
+    "main.5c4ce964.js.map": "/rent-a-car/static/js/main.5c4ce964.js.map",
     "590.6ba688fe.chunk.js.map": "/rent-a-car/static/js/590.6ba688fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea5509e2.css",
-    "static/js/main.d212edbc.js"
+    "static/js/main.5c4ce964.js"
   ]
 }
