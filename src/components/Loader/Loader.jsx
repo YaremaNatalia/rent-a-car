@@ -6,8 +6,8 @@ export const Loader = () => {
     <LoaderWrap>
       <RotatingLines
         visible={true}
-        height="96"
-        width="96"
+        height="56"
+        width="56"
         strokeColor="#3470FF"
         strokeWidth="5"
         animationDuration="0.75"
