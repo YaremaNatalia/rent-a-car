@@ -5,4 +5,5 @@ export const LoaderWrap = styled.div`
   justify-content: center;
   align-items: center;
   padding: 200px 200px;
+  
 `;
